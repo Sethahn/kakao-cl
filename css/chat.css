@@ -101,7 +101,7 @@
 
 .type-message__input input {
   width: 100%;
-  padding: 10px;
+  padding: 8px;
   margin-left: 0px;
 }
 
@@ -114,6 +114,6 @@
 .type-message__input .record-message {
   color: #523737;
   background-color: #ffe934;
-  padding: 10px;
+  padding: 8px 10px;
   cursor: pointer;
 }
